@@ -8,6 +8,6 @@ def main(a,b):
         bool
     """
     # Write your code here
-    x= a>b
+    x= a==b
     return x
 print(main(3,2))
